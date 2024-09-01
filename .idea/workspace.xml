@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338bf714-25bc-4c42-8499-298f9a33c270" name="Changes" comment="Сделано задание 1">
+    <list default="true" id="338bf714-25bc-4c42-8499-298f9a33c270" name="Changes" comment="Сделано задание 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +87,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725174354952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сделано задание 2">
+      <option name="closed" value="true" />
+      <created>1725175055935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725175055935</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Начальный коммит" />
     <MESSAGE value="Сделано задание 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделано задание 1" />
+    <MESSAGE value="Сделано задание 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделано задание 2" />
   </component>
 </project>
